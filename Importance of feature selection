@@ -1,0 +1,5 @@
+Importance of Feature Selection:
+
+- In many real-world scenarios, datasets often contain a large number of features, some of which may be redundant, irrelevant, or noisy. These extraneous features can hinder model performance and increase computational complexity.
+- Feature selection allows us to identify the most informative features, which leads to more accurate predictions and more efficient models.
+- Additionally, feature selection aids in reducing the risk of overfitting by minimizing the influence of irrelevant features that may introduce noise into the model
